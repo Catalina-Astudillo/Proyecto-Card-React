@@ -1,0 +1,19 @@
+button{
+    border-radius: 100%;
+    border: none;
+    margin-left: 180px;
+    margin-top: 30px;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+}
+
+.heartVacio{
+    color: rgb(33, 33, 245);
+}
+
+.heartRelleno{
+    color: rgb(33, 33, 245);
+}
+
+
